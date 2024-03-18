@@ -1,32 +1,91 @@
-[
-  {
-      "name": "John Anderson",
-      "imageurl": "/res/images/placeholders/male.png",
-      "topic": "Digital Marketing Trends",
-      "occupation": "Digital Marketing Specialist"
-  },
-  {
-      "name": "Emma White",
-      "imageurl": "/res/images/placeholders/female.png",
-      "topic": "Content Strategy for Social Media",
-      "occupation": "Content Strategist"
-  },
-  {
-      "name": "Daniel Brown",
-      "imageurl": "/res/images/placeholders/male.png",
-      "topic": "SEO Best Practices",
-      "occupation": "SEO Expert"
-  },
-  {
-      "name": "Olivia Clark",
-      "imageurl": "/res/images/placeholders/female.png",
-      "topic": "Email Marketing Strategies",
-      "occupation": "Email Marketing Specialist"
-  },
-  {
-      "name": "William Harris",
-      "imageurl": "/res/images/placeholders/male.png",
-      "topic": "E-commerce Growth Hacks",
-      "occupation": "E-commerce Strategist"
-  }
-]
+{
+    "marketing": [
+      {
+        "name": "Sarah Johnson",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "Michael Smith",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Emily Brown",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "David Lee",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Jessica Miller",
+        "imageurl": "/res/images/placeholders/female.png"
+      }
+    ],
+    "finance": [
+      {
+        "name": "Ryan Williams",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Laura Davis",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "Daniel Clark",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Olivia Taylor",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "Matthew White",
+        "imageurl": "/res/images/placeholders/male.png"
+      }
+    ],
+    "creative": [
+      {
+        "name": "Samantha Green",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "Ethan Anderson",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Natalie Wilson",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "Benjamin Moore",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Lily Harris",
+        "imageurl": "/res/images/placeholders/female.png"
+      }
+    ],
+    "management": [
+      {
+        "name": "Christopher Taylor",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Rachel Martinez",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "Joshua Rodriguez",
+        "imageurl": "/res/images/placeholders/male.png"
+      },
+      {
+        "name": "Sofia Campbell",
+        "imageurl": "/res/images/placeholders/female.png"
+      },
+      {
+        "name": "Samuel King",
+        "imageurl": "/res/images/placeholders/male.png"
+      }
+    ]
+}
+  
