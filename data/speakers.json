@@ -1,0 +1,26 @@
+[{
+        "name": "John Anderson",
+        "imageurl": "/res/images/placeholders/male.png",
+        "topic": "Digital Marketing Trends"
+    },
+    {
+        "name": "Emma White",
+        "imageurl": "/res/images/placeholders/female.png",
+        "topic": "Content Strategy for Social Media"
+    },
+    {
+        "name": "Daniel Brown",
+        "imageurl": "/res/images/placeholders/male.png",
+        "topic": "SEO Best Practices"
+    },
+    {
+        "name": "Olivia Clark",
+        "imageurl": "/res/images/placeholders/female.png",
+        "topic": "Email Marketing Strategies"
+    },
+    {
+        "name": "William Harris",
+        "imageurl": "/res/images/placeholders/male.png",
+        "topic": "E-commerce Growth Hacks"
+    }
+]
