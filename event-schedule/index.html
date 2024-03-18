@@ -71,7 +71,8 @@
 
     <!-- Color skin -->
     <link rel="stylesheet" href="../res/css/color_red.css" />
-
+<!-- animate library -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 8]>
       <script src="../res/js/modernizr.min.js"></script>
@@ -150,7 +151,7 @@
     <section id="about" class="bg-white-3 pull-up" style="margin-top: 5%">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-md-7">
+          <div class="col-sm-6 col-md-7" data-aos="fade-right" data-aos-duration="3000">
             <h2
               class="font-family-alt font-weight-700 sm-title-large title-extra-large-2 text-gray-dark-2"
             >
@@ -179,7 +180,7 @@ Dress Code, White Polo and Blue Jeans.
           <div
             class="col-sm-6 col-md-4 col-md-offset-1 xs-margin-8  xs-no-margin-rl xs-no-margin-bottom"
           >
-              <div class="experience__img grid">
+              <div class="experience__img grid" data-aos="fade-left"  data-aos-duration="3000">
                    
                         <div class="experience__overlay">
                             <img src="../res/images/nacos7.jpg" alt="" class="experience__img-two">
@@ -501,5 +502,10 @@ Day Five of Nacos week (Aksu innovation summit), The head event this Summit feat
     <!-- Countdown -->
     <script src="../res/js/jquery.countdown.min.js"></script>
     <script src="../res/js/countdown.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+    console.log(window)
+  </script>
   </body>
 </html>

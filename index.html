@@ -76,7 +76,8 @@ Event website by godspower ufot(github.com/faheel)
 
     <!-- Color skin -->
     <link rel="stylesheet" href="res/css/color_red.css" />
-
+<!-- animate css -->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 8]>
       <script src="res/js/modernizr.min.js"></script>
@@ -171,8 +172,8 @@ Event website by godspower ufot(github.com/faheel)
               <div class="display-table-cell vertical-align-middle">
                 <div class="container">
                   <div class="row">
-                    <div class="col-md-10 col-md-offset-1 text-center">
-                      <h2
+                    <div class="col-md-10 col-md-offset-1 text-center"  data-aos="zoom-in" data-aos-duration="3000">
+                      <h2 
                         class="font-family-alt font-weight-900 letter-spacing-2 text-white xs-title-extra-large sm-title-extra-large-3 title-extra-large-5"
                       >
                         <span class="text-base-color">AKSU </span> INNOVATION
@@ -292,8 +293,8 @@ Event website by godspower ufot(github.com/faheel)
     <section id="about" class="bg-white-3 pull-up">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-md-7">
-            <h2
+          <div class="col-sm-6 col-md-7" data-aos="fade-up" data-aos-duration="2000">
+            <h2 
               class="font-family-alt font-weight-700 sm-title-large title-extra-large-2 text-gray-dark-2"
             >
               ABOUT NACOS AKSU
@@ -1401,9 +1402,13 @@ innovative projects and ideas.
 
     <!-- Theme -->
     <script src="res/js/main.js"></script>
-
+<!--  -->
     <!-- Countdown -->
     <script src="res/js/jquery.countdown.min.js"></script>
     <script src="res/js/countdown.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
   </body>
 </html>
