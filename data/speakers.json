@@ -1,26 +1,33 @@
-[{
+[
+    {
         "name": "John Anderson",
         "imageurl": "/res/images/placeholders/male.png",
-        "topic": "Digital Marketing Trends"
+        "topic": "Digital Marketing Trends",
+        "occupation": "Digital Marketing Specialist"
     },
     {
         "name": "Emma White",
         "imageurl": "/res/images/placeholders/female.png",
-        "topic": "Content Strategy for Social Media"
+        "topic": "Content Strategy for Social Media",
+        "occupation": "Content Strategist"
     },
     {
         "name": "Daniel Brown",
         "imageurl": "/res/images/placeholders/male.png",
-        "topic": "SEO Best Practices"
+        "topic": "SEO Best Practices",
+        "occupation": "SEO Expert"
     },
     {
         "name": "Olivia Clark",
         "imageurl": "/res/images/placeholders/female.png",
-        "topic": "Email Marketing Strategies"
+        "topic": "Email Marketing Strategies",
+        "occupation": "Email Marketing Specialist"
     },
     {
         "name": "William Harris",
         "imageurl": "/res/images/placeholders/male.png",
-        "topic": "E-commerce Growth Hacks"
+        "topic": "E-commerce Growth Hacks",
+        "occupation": "E-commerce Strategist"
     }
-]
+  ]
+  

@@ -20,6 +20,6 @@ populateSection(await getTeamMembers("creative"), document.querySelector(".creat
 populateSection(await getTeamMembers("management"), document.querySelector(".management-team"))
 
 
-function populateSection(teamData, section) {
+export function populateSection(teamData, section) {
     section.insertAdjacentHTML("beforeend", generateUI(teamData))
 }
