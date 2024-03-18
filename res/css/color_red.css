@@ -1,0 +1,143 @@
+/*
+* Heading style colors
+*/
+
+.title-underline-base-color {
+  border-color: rgb(0, 255, 0);
+}
+.title-underline-thick-base-color {
+  border-color: rgb(0, 255, 0);
+}
+.title-sideline-base-color:before {
+  background-color: rgb(0, 255, 0);
+}
+.title-strikethrough-base-color:before {
+  background-color: rgb(0, 255, 0);
+}
+
+/*
+* Text color
+*/
+
+.text-base-color {
+  color: rgb(0, 255, 0) !important;
+}
+
+/*
+* Text color (on hover)
+*/
+
+.text-hover-base-color:hover,
+.text-hover-base-color:focus {
+  color: rgb(0, 255, 0) !important;
+}
+
+/*
+* Background color
+*/
+
+.bg-base-color {
+  background-color: rgb(17 89 17 / 45%) !important;
+}
+
+/*
+* Background color (on hover)
+*/
+
+.bg-hover-base-color:hover {
+  background-color: rgb(0, 255, 0) !important;
+}
+
+/*
+* Border color
+*/
+
+.border-base-color {
+  border-color: rgb(0, 255, 0) !important;
+}
+
+/*
+* Button colors
+*/
+
+.btn.btn-base-color {
+  background-color: rgb(0, 255, 0);
+}
+.btn.btn-base-color.btn-hover-transparent:hover {
+  border-color: rgb(0, 255, 0);
+  color: rgb(0, 255, 0);
+}
+.btn.btn-outline-base-color {
+  border-color: rgb(0, 255, 0);
+  color: rgb(0, 255, 0);
+}
+.btn.btn-outline-base-color:hover,
+.btn.btn-outline-base-color:focus {
+  background-color: rgb(0, 255, 0);
+}
+.btn.btn-outline-base-color.btn-hover-transparent:hover,
+.btn.btn-outline-base-color.btn-hover-transparent:focus {
+  color: rgb(0, 255, 0);
+}
+
+/*
+* Preloader color
+*/
+
+.pace .pace-progress {
+  background-color: rgb(0, 255, 0);
+}
+
+/*
+* Nav tabs (Section - Schedule)
+*/
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  background-color: rgb(0, 255, 0) !important;
+}
+
+/*
+* Nav stacked (Section - FAQ)
+*/
+
+.nav.nav-pills.nav-stacked > li.active > a,
+.nav.nav-pills.nav-stacked > li.active > a:hover,
+.nav.nav-pills.nav-stacked > li.active > a:focus {
+  background-color: rgb(0, 255, 0);
+  color: #ffffff;
+}
+
+/*
+* Accordions (Section - FAQ)
+*/
+
+.panel-group .panel.active .panel-heading {
+  background-color: rgb(0, 255, 0);
+}
+
+/*
+* Countdown
+*/
+
+.countdown .clock-item {
+  background-color: rgb(0, 255, 0);
+}
+
+/*
+* Pricing (Section - Ticket)
+*/
+
+.pricing ul > li.check-mark:before {
+  background-color: rgb(0, 255, 0);
+}
+
+/*
+* Timeline (Section - Schedule)
+*/
+
+.timeline-item.highlight:before {
+  background-color: rgb(0, 255, 0);
+  border: rgb(0, 255, 0);
+}
