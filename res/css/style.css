@@ -55,37 +55,37 @@
 /* Home BG Static (default) */
 
 #home {
-  background: url("../images/nacos11.jpg");
+  background: url("https://i.ibb.co/Qr4Gr90/nacos11.jpg");
 }
 
 /* Home BG Parallax */
 
 #home-bg-parallax > .bg-parallax {
-  background: url("../images/TIMER.jpg");
+  background: url("https://i.ibb.co/PjvycX4/TIMER.jpg");
 }
 
 /* Home BG Slideshow */
 
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(1) {
-  background: url("../images/nacos2.jpg");
+  background: url("https://i.ibb.co/svkvyWB/nacos2.jpg");
 }
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(2) {
-  background: url("../images/nacos11.jpg");
+  background: url("https://i.ibb.co/Qr4Gr90/nacos11.jpg");
 }
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(3) {
-  background: url("../images/nacos4.jpg");
+  background: url("https://i.ibb.co/KDJLmXJ/nacos4.jpg");
 }
 
 /* Home BG Slider */
 
 #home-bg-slider .bg-slider-wrapper .flickity-slider .bg-cover:nth-child(1) {
-  background: url("../images/nacos6.jpg");
+  background: url("https://i.ibb.co/hcj5p56/nacos6.jpg");
 }
 #home-bg-slider .bg-slider-wrapper .flickity-slider .bg-cover:nth-child(2) {
-  background: url("../images/nacos7.jpg");
+  background: url("https://i.ibb.co/0Fdrkcn/nacos7.jpg");
 }
 #home-bg-slider .bg-slider-wrapper .flickity-slider .bg-cover:nth-child(3) {
-  background: url("../images/nacos8.jpg");
+  background: url("https://i.ibb.co/60rC4B2/nacos8.jpg");
 }
 #home-bg-slideshow .display-table-cell,
 #home-bg-slider .display-table-cell {
@@ -183,11 +183,11 @@
 */
 
 #venue {
-  background-image: url("../images/venue.jpg");
+  background-image: url("https://i.ibb.co/QDdN47F/venue.jpg");
   background-position: center bottom !important;
 }
 #venue2 {
-  background-image: url(../images/nacos8.jpg);
+  background-image: url(https://i.ibb.co/60rC4B2/nacos8.jpg);
   background-position: center bottom !important;
 }
 
