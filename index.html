@@ -65,7 +65,6 @@
     content="Empowering Young Students to Drive Change Through Technology. This April, at AKSU." />
   <meta itemprop="image" content="Empowering Young Students to Drive Change Through Technology. This April, at AKSU." />
   <meta name="theme-color" content="#000" />
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <link rel="stylesheet" href="../res/css/bootstrap.min.css" />
   <link rel="stylesheet" href="../res/css/font-awesome.min.css" />
   <link rel="stylesheet" href="../res/css/flickity.min.css" />
@@ -73,6 +72,8 @@
   <link rel="stylesheet" href="../res/css/main.css" />
   <link rel="stylesheet" href="../res/css/style.css" />
   <link rel="stylesheet" href="../res/css/color_red.css" />
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
 
 <body id="page-top">
@@ -652,7 +653,9 @@
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
   <script>
-    AOS.init();
+     AOS.init({
+        disable: 'mobile'
+      });
   </script>
 </body>
 
